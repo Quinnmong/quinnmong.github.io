@@ -17,4 +17,4 @@ Beyond Tech
 ======
 When I’m not immersed in coding or finance, you’ll likely find me playing poker, hiking through nature, or hitting the tennis courts. I also love hosting events and connecting with people from all walks of life.
 
-Let’s connect if you’re interested!
+Let’s connect!
