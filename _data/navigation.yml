@@ -10,10 +10,7 @@
 main:
 
   - title: "Resume"
-    url: /files/Quinn Mong Resume.pdf  
-
-  - title: "Random Thoughts"
-    url: /thoughts/    
+    url: /files/Quinn Mong Resume.pdf    
     
   - title: "Publications"
     url: /publications/
