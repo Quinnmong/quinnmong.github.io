@@ -1,6 +1,6 @@
 ---
 title: "Decentralized finance and blockchain adoption in developing regions: A 2025 perspective"
-collection: publications
+collection: Publications
 category: conference
 permalink: /publications/2025-11-01-defi-developing-regions
 excerpt:  "Conference proceedings full paper on DeFi and blockchain adoption in developing regions from a 2025 perspective, highlighting policy, infrastructure, and inclusion implications."
